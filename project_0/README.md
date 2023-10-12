@@ -35,7 +35,7 @@
 :arrow_up:[к оглавлению](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_0/README.md#Оглавление)
 
 ### Краткая информация о данных
-Список из 1000 случайных чисел
+
   
 :arrow_up:[к оглавлению](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_0/README.md#Оглавление)
 
