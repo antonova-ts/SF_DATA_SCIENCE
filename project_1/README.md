@@ -4,6 +4,12 @@
 
 https://nbviewer.org/github/antonova-ts/SF_DATA_SCIENCE_1/blob/main/project_1/Project-1.ipynb
 
+### Ссылки на датасеты
+
+(https://drive.google.com/file/d/1tFxmJKhxswj49LA6HjPvZ3o4MuEvKIOL/view?usp=drive_link) 
+
+(https://drive.google.com/file/d/1PJXUG28wE--TJG7oOAdVepK3v957Ede8/view?usp=drive_link)
+
 ## Оглавление  
 [1. Описание проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Описание-проекта)
 
@@ -15,11 +21,9 @@ https://nbviewer.org/github/antonova-ts/SF_DATA_SCIENCE_1/blob/main/project_1/Pr
 
 [5. Этапы работы над проектом](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Этапы-работы-над-проектом)
 
-[6. Результат](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Результаты)    
+[6. Результат](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Результаты) 
 
-[7. Выводы](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Выводы) 
 
-[8. Ссылки на датасеты](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Ссылки-на-датасеты) 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
@@ -64,15 +68,4 @@ https://nbviewer.org/github/antonova-ts/SF_DATA_SCIENCE_1/blob/main/project_1/Pr
 :arrow_up:[к оглавлению](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Оглавление)
 
 
-### Выводы:  
 
-
-:arrow_up:[к оглавлению](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Оглавление)
-
-
-### Ссылки на датасеты
-(https://drive.google.com/file/d/1tFxmJKhxswj49LA6HjPvZ3o4MuEvKIOL/view?usp=drive_link) 
-
-(https://drive.google.com/file/d/1PJXUG28wE--TJG7oOAdVepK3v957Ede8/view?usp=drive_link)
-
-:arrow_up:[к оглавлению](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Оглавление)
