@@ -1,4 +1,8 @@
-# Проект 0. Угадай число
+# Проект 1. Анализ резюме HeadHunter
+
+### Ссылка на nbviewer 
+
+https://nbviewer.org/github/antonova-ts/SF_DATA_SCIENCE_1/blob/main/project_1/Project-1.ipynb
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Описание-проекта)
