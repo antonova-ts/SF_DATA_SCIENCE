@@ -1,13 +1,20 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Краткая-информация-о-данных) 
-[4. Что практикуем](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Что-практикуем) 
-[5. Этапы работы над проектом](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[1. Описание проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Описание-проекта)
+
+[2. Какой кейс решаем?](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Какой-кейс-решаем)
+
+[3. Краткая информация о данных](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Краткая-информация-о-данных)
+
+[4. Что практикуем](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Что-практикуем)
+
+[5. Этапы работы над проектом](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Этапы-работы-над-проектом)
+
 [6. Результат](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Результаты)    
+
 [7. Выводы](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Выводы) 
+
 [8. Ссылки на датасеты](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_1/README.md#Ссылки-на-датасеты) 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
