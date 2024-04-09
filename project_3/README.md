@@ -4,7 +4,7 @@
 
 [1. Описание проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_3/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_3/README.md#Какой-кейс-решаем)
+[2. Задачи проекта](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_3/README.md#Задачи-проекта)
 
 [3. Краткая информация о данных](https://github.com/antonova-ts/SF_DATA_SCIENCE/tree/main/project_3/README.md#Краткая-информация-о-данных)
 
